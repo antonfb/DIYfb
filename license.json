@@ -1,8 +1,7 @@
 {
-  "license_key": "1",
-  "expire_date": "2026-12-31",
+  "admin_key": "0",
   "license_key": "2",
-  "expire_date": "2026-8-1",
-  "license_key": "3",
-  "expire_date": "2026-5-1"
+  "expire_date": "2026-12-31",
+  "licensed_to": "授权用户",
+  "max_users": 100
 }
